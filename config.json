@@ -1,0 +1,21 @@
+{
+    "lm_studio_api_endpoint": "http://localhost:1234/v1/chat/completions",
+    "lm_studio_model_name": "qwen3-4b",
+    "search_web_ddg_num_results": 3,
+    "search_youtube_num_results": 2,
+    "scrape_char_limit": 30000,
+    "scrape_wait_time": 15,
+    "transcript_char_limit": 25000,
+    "llm_temperature_aspect_generation": 0.4,
+    "llm_max_tokens_aspect_generation": 600,
+    "llm_temperature_content_evaluation": 0.1,
+    "llm_max_tokens_content_evaluation": 350,
+    "llm_temperature_summarization": 0.2,
+    "llm_max_tokens_summarization": 1500,
+    "llm_temperature_final_synthesis": 0.5,
+    "llm_max_tokens_final_synthesis": 8192,
+    "cache_llm_responses": true,
+    "cache_directory": "llm_cache",
+    "preferred_domain_keywords": ["edu", "gov", "org", "ac.uk", "research", "study", "report", "institute", "university"],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
