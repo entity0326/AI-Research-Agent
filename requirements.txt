@@ -1,0 +1,8 @@
+duckduckgo-search
+requests 
+beautifulsoup4 
+youtube-search-python 
+youtube-transcript-api
+youtube-search
+webdriver-manager
+selenium
